@@ -1,0 +1,9 @@
+__pycache__/
+models/
+tools/
+logs/
+data/*/dev.parquet
+data/*/dev.jsonl
+data/*/corpus.json
+data/*/questions.json
+data/*/corpus_emb_*.npy

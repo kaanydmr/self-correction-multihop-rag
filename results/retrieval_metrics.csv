@@ -1,0 +1,7 @@
+dataset,stage,recall@5,recall@20,all_gold@5,mrr@20,ndcg@10
+2wiki,dense,0.6890,0.7420,0.3673,0.9679,0.7491
+2wiki,dense+rerank,0.7326,0.7420,0.4424,0.9906,0.7888
+hotpotqa,dense,0.8966,0.9469,0.7958,0.9772,0.9075
+hotpotqa,dense+rerank,0.9443,0.9469,0.8912,0.9850,0.9444
+musique,dense,0.5056,0.6671,0.1497,0.8212,0.5764
+musique,dense+rerank,0.5992,0.6671,0.2460,0.9030,0.6603

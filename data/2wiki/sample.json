@@ -1,0 +1,5002 @@
+[
+{
+"id": "0d72c2660baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "8df60c32088411ebbd6dac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "8e85a6bd086311ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f33752800baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "264fae5d089411ebbd75ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "87af20a9086c11ebbd61ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "5e075efe095811ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f9dcb4a60bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "ca4b497d08c511ebbd8fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "5cc7e4f20bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "c7f9e65408bd11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "147c7df4092011ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "a29726b40bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "4b3ffca60bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8326634a08a111ebbd79ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "bd29365e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "161093c40bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8ef4073e0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "adb7bac9086f11ebbd62ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "b0b2952008d311ebbd96ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f9fc4a340bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "b4ff29c00bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "b2bfcd0208e111ebbda3ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "97c6181e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "8721074a085c11ebbd5cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0e73737408ba11ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a687e05f086b11ebbd5fac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f0951102087811ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "de95e2e408ad11ebbd83ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "984a2b9f089511ebbd75ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "d9fa78a8084c11ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "a21d2c260baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "94a183b4087911ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "1e599f820baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "58b6a4780bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "8e64d2c208b411ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "eeb017fa0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "5d45350a0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "1ddc59a80bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "c9c4e2980bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "1ae417780bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "eb7659280bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "12d10eb408be11ebbd8aac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ea897033084e11ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "29842f67088611ebbd6dac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "de7e12d3089111ebbd73ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "17f38e8208cb11ebbd92ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "5d3f9cb5088611ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "1ebbc9b20bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "90a97f7308c011ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "faf6572008e411ebbda4ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "4610f47c095811ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "538e2a10084e11ebbd56ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "704c7d820bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "00a6129c085611ebbd59ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0782c6bc089911ebbd77ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "2fe5bdc20bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "7142e91a08bc11ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f0231ce60baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "1cf4dbe80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "c096ef9e086d11ebbd62ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "3451827a088d11ebbd70ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "53dffe0c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "3e1560220baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "0e6f0d400bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "f4e4e862089011ebbd72ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "50ba732e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "11a6fcd40bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "60719218094311ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "5bdd3aec087d11ebbd6aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "135bc55a0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "b50d85db08b511ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "77ff73120bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "c787a5cc08a811ebbd7fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "49970fdc08bb11ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "fcc1bcc008d311ebbd96ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "83b30e13089211ebbd73ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "38da155f087511ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "a6961cb20bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "bd3201af096011ebbdafac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "8752358a097711ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fade54ed08c211ebbd8dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "78210212087611ebbd67ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "a842a2a0088c11ebbd6fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "764663040bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "fffc9979086711ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "2cbd1ecd08e011ebbda1ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "ca78ada20bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "40d326d80bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "20bf77b40bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "3ac518f40baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "140b2d380bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "355b86a40bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "701d5e580baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "593d2a5a0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "26d0b2f2085511ebbd59ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "2020864008c211ebbd8bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "9c2990060bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "fdb3b4780bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "3013a9f008a711ebbd7fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "dc4c5ff508dd11ebbd9eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6970df82088811ebbd6eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a50f86fd08aa11ebbd80ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "8dab3a8e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "e50263540bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8eb5dfe20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "13c5b94c088d11ebbd70ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "397b2ab60bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "7d61c5d408c811ebbd91ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6070874a0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "49a5c36b086111ebbd5dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "b83a9e940baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "65628236088a11ebbd6fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a386f9980baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "53e18b8c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "05282bae0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "82aabedc087111ebbd63ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "22457b2c0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "030942fc086711ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "9f00dfe2089411ebbd75ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "65601eaa0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "ba5c13ea085f11ebbd5dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "c83aa11c0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6cfe1e5408ac11ebbd83ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "fb36485008ae11ebbd83ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "1691ef940bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "d2c7402008bf11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "73ea1798090a11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "e54e143a08ce11ebbd94ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "329b041508a211ebbd7aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "ccc674a808aa11ebbd80ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "653dfa8f08f211ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "495e71a20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "8a5a24e1089911ebbd77ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a00f22640bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "c091b7620baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "2b1dde52088211ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "179836cc0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "c74304f20bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "3039f2ae0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "27e926ca0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "99cf9bb2085a11ebbd5cac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "d98c923a08be11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "c9819f720baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "2777495a0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "4469d2fa0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "20ad267b087411ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "160130b40bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "4ce1d27b08bc11ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "35aaea880bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "e60a895208b611ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "73dcc04808de11ebbd9eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "2302f685089c11ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "d9189eae0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "8231a2ae08b011ebbd84ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "b6f60cf308e211ebbda4ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "652d8d6608c511ebbd8eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "8d2382e0085811ebbd5aac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "132a5430085d11ebbd5cac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "73165fb60bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "ad6e5c1c0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "add8ae83088011ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a2148cba0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "9bd20704087811ebbd67ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "4bce007208c911ebbd92ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "1ec26957097d11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "1cc85484085c11ebbd5cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "85e714f608fb11ebbdacac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "dddacebe08b511ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "c55e2662087711ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "dd1349640baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "d23a19520bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "5af6bd4e08d511ebbd98ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "86f297b40bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "51c970e6097111ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fec934980bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "77f2d5bc0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e349437c0bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "51e8895608d711ebbd9aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "aa72cb6a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "a37ece260baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "d64d24180bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8a025147096011ebbdafac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "6a7e42180bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "6c2872fe08af11ebbd83ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "c8c299420baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e7e16a100baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "148d982608af11ebbd83ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "98bb0099091811ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f8569b9c0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "e9940b6a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "70041a1e0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "9b54929e0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "f36595920bae11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "e7fafa0c08d011ebbd95ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "b22b87b40bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "c46f575c0bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6842323e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "8ebd30080bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "81f6dbba098111ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "29bddf900bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "d20c8a3e0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "3252f09908c511ebbd8eac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "ad1de4c00bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "c2c06af608d511ebbd98ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "e73a5394089211ebbd74ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "37379b99085411ebbd59ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "897058c40baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "530b83f20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "ab18549a0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "2815ef080baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "84c5154a0bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6b41dc440bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "9716f3fc097c11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "7dd9d184094511ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "0e6d9f8c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "cba6db080bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6a5beab00bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "5dfccdee0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "734d9f0408a111ebbd79ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "7e8b8f0c08f611ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "82c4c96c086711ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "3397e9ec0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "2f394208090e11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "6a6bc12208a611ebbd7fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "839996120bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "4c0ae11508f511ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ae95e8e40baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "fd07b892085b11ebbd5cac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6a803af00bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "bc702d440baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "9231537c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "13972c8a086311ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "2536562e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "288f010c0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "5b8ff9cc08d111ebbd95ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "a6dd53980bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "dfdff31c0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "3bb9590e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "4f0a7e3c08b011ebbd84ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "c07f9b1a08ab11ebbd82ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "54992e9a0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "7e37b0a0089511ebbd75ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6b6d990e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "79f5d959090411ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "421ca5940bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "16a91a500bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "bb7527e4089b11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "052eba74090911ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "0c870a6b08c611ebbd90ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "da24924c088711ebbd6eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "3ba9c61608f811ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fc28c2e80bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "be117d520bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "01dc5ca0086c11ebbd60ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0c99f25808b011ebbd84ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "05b761f108e211ebbda3ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "b4399e49089511ebbd75ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "84798504087911ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "50e96f4e0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "4df7e6d00bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "582deca408bc11ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a4f96ce80bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "947f85d2096f11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "8d62000a08ea11ebbda7ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ff918a88086611ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "d54b7450087a11ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f2c0141208bd11ebbd8aac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "a0b2a4ce0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "77f1896e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "981f1da9087111ebbd63ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "fff608920bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "a9a4b633089c11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "117e6944089b11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6a848a240bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "71530df00bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "b2ed53540bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "414aedec08d611ebbd98ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "506bfdb20baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "40e240ae0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "864c3a9c08d411ebbd96ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "656745cc0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "66f6f0e60baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "6a7763e40bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "2a667a5808c511ebbd8eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "6f0a43a80bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "18350dd2087e11ebbd6bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0d3fcc480bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "fa3b93d40baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "7c91e6220baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "13666b4a085b11ebbd5cac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "87d1e62a08c511ebbd8eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "2185d4500bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "0105fd120bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "36ba28ed089611ebbd76ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fb25645c0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "3d049bbe0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "ff9aaaf708c411ebbd8eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "30885e540bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "4c17bba60bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "b3631004088011ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "48ad0aca0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "2f827d4008c811ebbd91ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "9a9a151f096f11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "94415cd008e911ebbda7ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "683cfb340bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "1dad6435091f11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "3654974a08df11ebbda0ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "956a70660bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8d20ec6e08cf11ebbd95ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "c32ac4ca0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "f889c6fe084f11ebbd56ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "951c19540bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "394c2332088511ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0c31825a08e111ebbda2ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "c1b112a00baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "869eefb60baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "77f521780bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "4e8195fa095b11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "0404d0e40bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "50e4a65c0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "391edf020bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "1005493308c011ebbd8aac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "88d066a708e011ebbda1ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "897c55600bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "439a6dec0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "4f49c369098d11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "566c1e2c08a811ebbd7fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "06d0699e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "08b4d30e08d511ebbd98ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "95bf26c20bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "eaeffe520bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "f59a352e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "ed1d6ac40bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "04a065a60bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8033ca4e08f711ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "03f23e500bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "dd2474c80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "36a3fe2a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "c2c7992e08bd11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a1636efb090511ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6723781008b611ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "1a76997408a311ebbd7bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a0ae8e340baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "0a66172a0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "e66957060baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "0dee63d2087e11ebbd6bac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "49fb861408a311ebbd7bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "887f71380bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "637e1a02095b11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "898591da0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "55660c0a086b11ebbd5fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0fe88aba089111ebbd72ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "d9a5f6ae08ae11ebbd83ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "d9d9e0c40bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "736afe9e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "7f3cf1aa0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "645c9a5a08c311ebbd8dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "396a3978086511ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "37a4158e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "4062254e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "632cef18089111ebbd73ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "934a55e60bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "32ebe13e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "024761e80bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "42661902085b11ebbd5cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "45d7133508c411ebbd8eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6d6c12880bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "5bbff10e0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "0f16160c0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "3ac032da0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "3a6e83be086b11ebbd5fac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "e0887f8c0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "63a24046084c11ebbd56ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "eb56e8de089711ebbd77ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "7d94382208d011ebbd95ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "7ce65e5a08b911ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "58fe56b80bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "e58394660bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "e4fbb7ad08b611ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "b98f8d7c0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "baa08dbf085411ebbd59ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "b5f33afa0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "1194abf60bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "6ae33560087211ebbd65ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "f3c5a94808d711ebbd9aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "18e9a16e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "63c8e88608d311ebbd96ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "505840b40bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "fff47f36086f11ebbd62ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "541c0d400bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "91f8aeb508b811ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "5cb7bdda0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "6f30b4160bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "2c0cb8a7085011ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "d6ef9ae60bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "83049a70090b11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ffc03f1b086911ebbd5fac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "e8e1b9280bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "4dca6f59089e11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "7347d506086511ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "22bbdc040bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "715e420208c911ebbd92ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "8a23b5ac0bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "3d69910508ba11ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "cd48a8e60bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "2e52080a0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "d72c67a508d211ebbd96ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "73028b7c0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "9219ff74093511ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "7519b31d084d11ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "033d63f308c411ebbd8eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "389e053c0bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "da622640090e11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "4c60adc20bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "a8f4d100093611ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "24e4900e087211ebbd64ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6be347940baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "5d76a0920bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "8bccf6360bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "6185c5d20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "27e8da800bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "7d87730c087211ebbd66ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "76e271360bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "e21e04b9089d11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "58f6d60a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "8f4ad680089d11ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "b82ce9420bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "548d8436089b11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "1c23b3ce0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6a4699a4094c11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6ec56c1608b311ebbd86ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "519aee780baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "74c6f7200baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "4758ffd00bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "9c7a105b08e311ebbda4ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "5d6a128c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "008b58060baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "b0093fea0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "eb602e7508d011ebbd95ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6df082ca0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "3ce8faa40bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6a7061c00bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "7259372a0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "a1830eea08e211ebbda4ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "e40339fc08ab11ebbd82ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "1b79de7c0bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "351f854a0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "6a0a17b80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "20e9c822086d11ebbd61ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "9c78f60708d511ebbd98ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "46dc00cc0bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "bbb42c7c088811ebbd6eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "a816c326089411ebbd75ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "82cf1051087111ebbd63ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "8e7160ca0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "dc69969e0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "a6689af208b911ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "f656c9920bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "378759440bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8f9702640bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "e0b71974084e11ebbd56ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "76708e6a08b211ebbd85ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "649c0d6c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "12c908fe096c11ebbdafac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "91e901b80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "9e63943c085811ebbd5bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "d1771fcd08ad11ebbd83ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "8129997c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "c418fa2408e811ebbda6ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "8b16280408ce11ebbd94ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "5cadf57a0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "fc38045c0bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "77dbfab80bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "bf71fcfd092411ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "3cd237d60bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "e69a4b4408d611ebbd99ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "d09a3e680baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "88cc034008c211ebbd8cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "233a579c0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "3219416708c211ebbd8bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "f267d8f80bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "b7c97390089e11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a283d9e208be11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6c9b4c03086911ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "a26599ea097011ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "8a6ab1d80bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "623ea4080bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "79db6f78098111ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "d536361e08a511ebbd7dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "29bf69d20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "8398f07e0bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "c66cd08f08c811ebbd92ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "480e8626089911ebbd77ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "b4f63414088511ebbd6dac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fa7ed483084e11ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6e86fee40bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "f8e48ec408bb11ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "b368318308bd11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "758c3ad508c211ebbd8cac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "070e11d20baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "7ff9bdbc0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "2e294eec0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "7ba283e608fa11ebbdacac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "5fdf9c8008b311ebbd86ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "37490a640baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "bf625caa08dc11ebbd9dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "3e027859098f11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "3e44fbee086311ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "0d8b44260baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e3f8885d08af11ebbd83ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "e7d5fd3708c811ebbd92ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "92d74cd20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "f48d94d00bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "ce6bd0b008a411ebbd7dac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "d5f14a34088311ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "98a68cd80bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "67326a9408c711ebbd91ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "644b9aa608bf11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "db371cbb088011ebbd6dac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6c0c4c1a0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "a9e76b1e087711ebbd67ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "205e0f460bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "64efc0e908b211ebbd85ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "4a85df04089811ebbd77ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "2f09d429089e11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6a74a9880bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "15b86f340baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "87a8a41e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "9f3f1276091611ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fabd196d08b311ebbd86ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "14c88d0a08aa11ebbd80ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "c51085b60baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "18c5c93908c111ebbd8bac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fd4bc65e0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "d7a948ef09bf11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ef48a3720baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "1ee81a3c08c611ebbd90ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "1604c03a0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "05ca5a800bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "fd0803df084b11ebbd56ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "2b871cac0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "cfff2a280bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "fd49afe6084811ebbd55ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "82043b7c0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "5256bf800bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "59f0b4d608b211ebbd85ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "1cc5ae820bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "04b5e0320bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "391fed160bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "fcd3ff500baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "52efc3780bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "23bc36af088211ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "655027de0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "f243705c0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "7de481100baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "519026fa0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "8ea950d80bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "6aac7fba0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "87b30d140bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "5efc135508bb11ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "13288e3a090b11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "2858ddc609b211ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "c1d6a4ac0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "a2745ec4085d11ebbd5cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "d3bdac7508d011ebbd95ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "7bc6824408de11ebbd9eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "5ed727980bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "c8c985900baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e53937d00bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "deea59ca0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "7a465cb4095111ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "173d1a86087a11ebbd67ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "a8aa71860bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "ab7b2e080baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "0ad93d5a086411ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "02940204087811ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ae30933a088b11ebbd6fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0cafe4700bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "923bf21e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "70ac87dc08e511ebbda4ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "29bd8c0c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "b4cfdbcb08d011ebbd95ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "f3c9cb920baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "1350c21e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "8acf4628086a11ebbd5fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "f207afbc092311ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "7ea99e4c08a211ebbd7aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "206f88e4093511ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "00fc38720bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "6ce16be80bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "706a0130089011ebbd72ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "4ed06c6e08a211ebbd7aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "572c3827088311ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a01468fa0bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "0e18c6be0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "d62f491208b311ebbd86ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "e8f66e1e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "03eeef5508b611ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "1869092c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "ff36cddc08c011ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "654dbe680bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "72b6fb5a08ae11ebbd83ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "e9495f7508bd11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "fd848f860bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "791a6e4d087111ebbd63ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "387c056e0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "3f4a39800bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "9792990e087511ebbd67ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a8c8b9ea0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8c6ba65608e511ebbda4ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "48b242c40bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "e42d315308f711ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "36ab43c108b111ebbd85ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "c67baef608dc11ebbd9dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "ef9d40a40bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "69c1a07408ca11ebbd92ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "06326df2088611ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "874046160bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "5c049120088511ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "f6a494380bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "5f5897fe0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "74c3be7a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "29e199bd084f11ebbd56ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "8da6e4200bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "a85e01ea0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8493835f085211ebbd58ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "13710b520bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "f2dbc5b4089e11ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "e007f858087211ebbd66ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "85f0c5f5085211ebbd58ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "2ef233a40baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "2cfaa164085111ebbd58ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0cc648c80bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "eadb2cac085711ebbd5aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "e9e79ad008d211ebbd96ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "77cecc800bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e051bd000bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "91e41ba80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "83284adc08a111ebbd79ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "24835b720bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "7b8cd8bc0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "d6b4117a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "d8a1eedf097611ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "02e56f360bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "d27c4969084d11ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f3f84ab4085d11ebbd5cac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fc631640089711ebbd77ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "63721cc808be11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "133b785c0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6b713cc60baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "f6e8ecc80bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "6c77f58c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "a0a66ec40bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "d5cee073085911ebbd5bac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "aeade7d408c911ebbd92ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "cf838fa608a911ebbd80ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "e3d4ca03088511ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "1e22e65308a011ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "543fea1e086b11ebbd5fac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "fc50265e0bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "d43fc51008da11ebbd9cac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "b2840c620bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "10ae1b5c088411ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "27f6eaa80bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "507b984008b111ebbd85ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "e2bddff60bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "beda709d090e11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f7af8d200bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "2c0d754e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "d7dbdf4d084e11ebbd56ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "f858586108e711ebbda6ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "e525d2da0bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "0b0f34d6084a11ebbd55ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "1ca95b8a084b11ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "7727c58e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e3d274ec0bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "ccb682740bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "633132f008b711ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "1d94fad8084911ebbd55ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6854217908a011ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "c4854c61086e11ebbd62ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "68f03bae0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "eee1f0af085911ebbd5bac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "41ba0aa60bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "b33f4d7b08aa11ebbd80ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "636fc8380bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "93dec34e0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "570c19960bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "947f254f090911ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "166c71f00baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "03fb1160086311ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6264f95a08d611ebbd98ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "e9653bcc085911ebbd5bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a651b80b085f11ebbd5dac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "c75f333208ba11ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "bd25355e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "338dd7900bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "49480961087e11ebbd6bac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "955eafcc089f11ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "4b4cb9eb086f11ebbd62ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "feb429180bae11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "18b7dec00bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "9885e6f20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "662f57cc093e11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "f718f7080bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "17d8beda089f11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "3132d878087411ebbd67ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "664087480baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "897c96240bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "63e8344e085511ebbd59ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "819201360bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "bedfa2300baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "4293552c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "8eafc6a808b711ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "214beb5e0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "109f949808bf11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "57bfca9a095d11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "c6da584808f911ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f3c5261d088711ebbd6eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "495028240bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "d84a6e5c0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "cafd9a02089b11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "616a24f40bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "bd54609908d711ebbd9aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "d3c779240bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "ba7bbf3a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "0179c3f20bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "036d9d900baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "7440c3180bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "db2b0d96086f11ebbd62ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "7506bf7a0bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "e08e5e5008d311ebbd96ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a80d84e7096d11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "456aadbc0bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "0eb54158087b11ebbd67ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a5f7d55508f211ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "05108af20bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6668ebd20bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "d323fb0208c011ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "c5ad7c7e0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "3ffd55240bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "9682ccf8087c11ebbd6aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "51c1d16408be11ebbd8aac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "28136b68097f11ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "b07065000bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "9c145b7b086b11ebbd5fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "11aa117e0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "59636dc20bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "295f9dee08fc11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "2e17069c0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "772d6a700bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "3f362dce0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "ca8467600baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "6637584408b211ebbd85ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "21c90ee5085f11ebbd5cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "135fde100bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "060cb332087711ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "8b9fccbc08bf11ebbd8aac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "5eb2723808ba11ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "dd1a82740baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "6f8bb027090811ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "658f9a300bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "c1aab4db094f11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "360d5fa60bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "f9d648d00baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "41145d220bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "b9a391dc0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "c43dabfa0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "cc6b0e9e084e11ebbd56ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "5be3d2e7089411ebbd75ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "90a2678a0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "abb55bf20bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "c2fe721a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "620b93c3086511ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "8ed5dbc6086811ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "61e86d5a0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "8deac61208eb11ebbda7ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "6609da70087311ebbd66ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "67f15b1a095611ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ee9ac0080bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "481d48000baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "a7632b4c086a11ebbd5fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "9e6d7bdc08a111ebbd79ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "4306062a0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "62a0531e0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "9711615e08cf11ebbd95ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "83bf3b5a0bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "674b49540bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "9558f80608cf11ebbd95ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "c01738e20bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "c7a4943508bc11ebbd89ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "7e6e90cc088911ebbd6eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "484af294089b11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "15244e85086311ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "3ab846860bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "0983b07c0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "322dc9a2087b11ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "893160a40bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "4dd6b933097411ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f8378b9e08ab11ebbd82ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "393b128a089f11ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "ea3c4b2e08ce11ebbd94ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "774f0d8d094f11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "2fa5c12e091711ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "0434b8de08c211ebbd8bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "e56e5c7e089c11ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "927a5b0a088911ebbd6eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "8d9cddcc0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "3408c15f08f411ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "33323be20bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "d30776a608e211ebbda4ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "7f91e578086e11ebbd62ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "dc8d75280baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "ba5b86880bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "56064d800bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "670894680baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "45b3f81b087211ebbd65ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0f104449087311ebbd66ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "45ad25da08db11ebbd9cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "7cf72bb20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "80f04af008b311ebbd86ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "474254660baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "0cafa3880bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6ce7c6c00bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "0e967bad08a711ebbd7fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0aa92d8d08cf11ebbd94ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "4b1b91720bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "d6b29805087b11ebbd69ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "2316dc880bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "ee3304c2087411ebbd67ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "899f2e000bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "4dea6f320bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "5acc6e480bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "402c6e0008c611ebbd90ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "b69ad95c08ad11ebbd83ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "2f96d5c40bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "f272f7520bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "e4db2cd9089a11ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "59d8293408a311ebbd7bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "be899b3c0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "b8960ed408b011ebbd85ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "86afde360bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "42e601400bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "8115d246087b11ebbd68ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "2b8a51aa085111ebbd58ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ad6dc5540baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "3724010a08e011ebbda1ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f48d0344088c11ebbd70ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "883d60f208a611ebbd7fac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6fb6c4520bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "b9d18962093511ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "4cc2866e087f11ebbd6bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "31d56a3a0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "b4399e48089511ebbd75ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "fc04494a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "cf918c0c0bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "4a9c5bde0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "ce82a5d8093a11ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "0f0a793b086111ebbd5dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "a9989bea087e11ebbd6bac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "9d7e5cba0bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "63d7f1a40bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "90c0142e08a911ebbd80ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "e48935f308b011ebbd85ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "6e4af69c0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "22a11ef608d211ebbd95ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "db507a060bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "48b18ece0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "617302ea0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "82e3e9be0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "1e1c096e086311ebbd5eac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "719ba24608a311ebbd7bac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "248eed6c0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "9fe914ec0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e0316287089c11ebbd78ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "796dbfc40bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e932be4c09a611ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "bff878b0089c11ebbd78ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "b73ccddb08a511ebbd7dac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "72a501e40baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "7cfb50700bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "73a066fc085c11ebbd5cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "53e7e9d80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "72b57a7a0bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "594ca25608df11ebbda0ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "92e4c1960bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "68ce437408df11ebbda0ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0e2082e408d111ebbd95ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "63ccce2308cb11ebbd92ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "b705493e08f811ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "74cdf3ac0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "60b2aa720baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "847df1960baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "e6a47550097611ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "571e337b091611ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "2782092e088411ebbd6dac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "4165dd540bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "7a8eae7d088111ebbd6dac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "fffc59fc088f11ebbd72ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "c8c9d8d80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "9aede5480bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "1ba2ba8c0bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "43bc7b940bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "3def863e0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "a5937fe00baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "4020ce88097011ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "deb8c5dc0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "714fb29a088e11ebbd70ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "87724861086d11ebbd62ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "937cd0300bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "2f013d4a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "20cb36c20bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "5cb1c0100bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "df0079d408fe11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "751bb456084c11ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "db9c6d860baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "40615efc0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "ade965ba0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "156dcace08f811ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "f3bc1623086d11ebbd62ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "37f634be0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "bf38e404087511ebbd67ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "362f76f40baf11ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "f6e4582a0bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "c20226440bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "623226980bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "b32bf86a089611ebbd76ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "edf1154708de11ebbd9fac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "2bb476ce08ab11ebbd81ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "168d081a0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "a17475e3095f11ebbdafac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "41454e30088d11ebbd70ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "f8bb88be08fc11ebbdadac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "abebf78408c611ebbd90ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "bc6f3c4a0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "9b4b255108f911ebbdaaac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "ea696896089911ebbd77ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "363bbec60bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "b5b3eb7a0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "63a51a37096711ebbdafac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "8abaaafe0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "482e6b440baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "83f01c4208b511ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "987e4ee80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "1f9ccd180bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "91200380084911ebbd55ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "71a137c6084a11ebbd56ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "804026ed086911ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "0864c8b40baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "eafb6d960bae11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "30a3f59308a411ebbd7cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "22966622089711ebbd76ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "4b3014b809b411ebbdb0ac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "3635bc220bdb11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "3d96ffaa087311ebbd66ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "a89f2d8c0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "e6838c8d085a11ebbd5cac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "9d82988608d511ebbd98ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "39ca32a80bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "010d6cab08c711ebbd91ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "036c82480baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "ba4e87c60bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "2084260e0bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "909aa544086411ebbd5eac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "ae3e72f4088411ebbd6dac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "f3cdfe9108d211ebbd96ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "9f76f47a0bdc11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "186e24f20bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "45463c0f091611ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "061601a608bc11ebbd88ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "5112118e0baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "c6431e7a08d111ebbd95ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "66d8f7560bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "4e43a803096111ebbdafac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "ce0005f6087211ebbd66ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "466a1559087e11ebbd6bac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "50b6ce680bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "57348a9e091811ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "bde981ce0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "5b1bea1e0bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "eb27b5f80baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "1d8ff1d00bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "a813d16b094911ebbdaeac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "0c5cf4a80bde11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "eb3fdf6208bb11ebbd88ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": false
+},
+{
+"id": "a405efb708d811ebbd9cac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "4648da32088811ebbd6eac1f6bf848b6",
+"type": "comparison",
+"answerable": false
+},
+{
+"id": "66e04fc908a111ebbd79ac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "7e6cb4f80bdd11eba7f7acde48001122",
+"type": "compositional",
+"answerable": false
+},
+{
+"id": "32ecfc7c0bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "cd8c16b20bda11eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "7184c97c08b011ebbd84ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+},
+{
+"id": "61964be60bb011ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "a29bdc540bd911eba7f7acde48001122",
+"type": "compositional",
+"answerable": true
+},
+{
+"id": "6f5447020baf11ebab90acde48001122",
+"type": "inference",
+"answerable": true
+},
+{
+"id": "676cbd14085811ebbd5aac1f6bf848b6",
+"type": "comparison",
+"answerable": true
+},
+{
+"id": "5b60c0f80bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "5d7ff6d80bb011ebab90acde48001122",
+"type": "inference",
+"answerable": false
+},
+{
+"id": "e1d2c3a708af11ebbd83ac1f6bf848b6",
+"type": "bridge_comparison",
+"answerable": true
+}
+]

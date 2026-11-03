@@ -1,0 +1,11 @@
+numpy==2.5.4
+pandas==3.1.0
+pyarrow==26.0.0
+requests==2.34.2
+scipy==1.18.1
+matplotlib==3.11.2
+tqdm==4.70.1
+# jina-reranker-v3.5 (src/rerank_cache.py, src/retriever.py); install the torch build for your CUDA version
+torch==2.14.1
+transformers==5.22.0
+safetensors==0.8.0
